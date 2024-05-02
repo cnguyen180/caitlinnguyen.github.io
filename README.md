@@ -4,4 +4,19 @@
 ### Education 
 Business Administration, BS
 
-### Work Experience 
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Analyzing the Factors Contributing to the Success of a Movie
+**Code:** 
+
+**Goal:** 
+
+**Description:** 
+
+**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+
+**Technology:** R
+
+**Results:** 
+
