@@ -41,3 +41,14 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Logistic regression modeling, data preparation, validation techniques in R, interpretation of model outputs (confusion matrices, accuracy metrics), strategic decision guidance.
 
 **Technology:** R
+
+### Predicting Customer Spending and Analyzing Trends in a Clothing Store
+**Code:** [`Predicting Customer Spending and Analyzing Trends in a Clothing Store`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/Trends_ClothingStore.ipynb)
+
+**Goal:** The project aims to predict annual customer spending using customer attributes and explore how these attributes have evolved over time to refine marketing and sales strategies.
+
+**Description** Utilizing linear and polynomial regression models, this analysis interprets the relationship between various customer characteristics and their spending habits, alongside investigating the changes in physical attributes of the customer base over several years.
+
+**Skills:** Linear and polynomial regression, data preprocessing, model evaluation (MSE, MAE, MAPE, R2), trend analysis, interpretation of changing customer demographics.
+
+**Technology:** python
