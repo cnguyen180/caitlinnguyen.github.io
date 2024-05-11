@@ -30,3 +30,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Data preprocessing, model training, validation, decision trees, lasso regression, ridge regression, data structure visualization, performance metric analysis (confusion matrices, RMSE).
 
 **Technology:** R
+
+### Decoding Patterns of Startup Failure 
+**Code:** [`Financial Profiles: A Study of Mortgage Solvency`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/Mortage.R)
