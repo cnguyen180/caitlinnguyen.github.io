@@ -31,5 +31,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** R
 
-### Decoding Patterns of Startup Failure 
+### Zencap: Decoding Patterns of Startup Failure 
 **Code:** [`Financial Profiles: A Study of Mortgage Solvency`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/Mortage.R)
+
+**Goal:** Aims to enhance ZenCap's investment decisions by developing a logistic regression model to predict the success or failure of startups based on historical data from 2018 to 2020.
+
+**Description:** Through the application of logistic regression analysis on a dataset of California startups, the project seeks to identify critical financial and organizational predictors of startup outcomes, thereby enabling more informed and precise investment decisions.
+
+**Skills:** Logistic regression modeling, data preparation, validation techniques in R, interpretation of model outputs (confusion matrices, accuracy metrics), strategic decision guidance.
+
+**Technology:** R
