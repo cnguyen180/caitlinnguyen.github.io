@@ -52,3 +52,15 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Linear and polynomial regression, data preprocessing, model evaluation (MSE, MAE, MAPE, R2), trend analysis, interpretation of changing customer demographics.
 
 **Technology:** python
+
+### How Analytics Define the New Age of Blockbusters
+**Code:** [`How Analytics Define the New Age of Blockbusters`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/blockbuster.R)
+
+**Goal:** Utilize advanced machine learning to predict high-grossing movies for the upcoming season and estimate potential revenue.
+
+**Description** Analyze historical movie data, perform EDA and data cleaning, and apply machine learning models. The objective is to provide actionable insights and recommendations on likely successful movies for the new season, culminating in an internal hackathon presentation.
+
+**Skills:** Data analysis, machine learning, exploratory data analysis (EDA), data cleaning, data preprocessing, hypothesis formulation, statistical analysis, economic reasoning, data visualization, client communication, presenting findings
+
+**Technology:** R
+
