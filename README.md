@@ -11,6 +11,21 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Portfolio Projects
 
+### Analyzing Twitter Sentiment for Airlines 
+
+**Goal:** To improve the operational effectiveness and consumer happiness of airline firms by examining the sentiments expressed in tweets.
+
+**Description:** The project focused on analyzing a dataset of tweets mentioning various airlines. The dataset included tweet IDs, airline sentiments, confidence levels, reasons for negative sentiments, retweet counts, tweet creation dates, and user timelines. The project involved loading the data into Tableau, cleaning and preprocessing it, performing exploratory data analysis (EDA) through interactive visualizations, analyzing sentiment patterns, and implementing predictive analysis for airline sentiments.
+
+**Skills:** Data cleaning, data analysis, sentiment analysis, data visualization, interactive dashboards.
+
+**Technology:** Tableau
+
+**Results:**  The analysis revealed that United Airlines is the most discussed airline, while Southwest Airlines has the highest occurrence of positive sentiments. The insights highlighted the main causes of negative sentiments, such as late flights and customer service issues. The findings were visualized through various interactive dashboards, allowing for a deeper understanding of sentiment distribution across different airlines and time zones. The project provided actionable insights to improve customer service and operational strategies for airlines.
+
+**Slide deck:** [`Analyzing Twitter Sentiment for Airlines `](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/Twitter%20Sentiment.pdf)
+
+
 ### Strategizing for Spotify: Enhancing Playlist Placement Opportunities 
 **Code:** [`Strategizing for Spotify: Enhancing Playlist Placement Opportunities.R`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/NewMusicFriday.R)
 
