@@ -106,7 +106,8 @@ This is a repository to showcase skills, share projects and track my progress in
 Chapman University- BS, Business Administration, 2021-2024
 Pasadena City College- AA, Biology, 2019-2021
 
-#Contacts 
+# Contacts 
+
 Linkedin: [`Caitlin Nguyen`](www.linkedin.com/in/caitlin-nguyen-abb8ba181)
 Email: caitnguyen1378@gmail.com
 
