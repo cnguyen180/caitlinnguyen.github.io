@@ -5,7 +5,7 @@ Hi, I'm Caitlin! I am a recent graduate from Chapman University with a major in 
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
 
-I like to experiment with different data analysis tools and methods in my leisure time, and I'm constantly seeking for new ways to learn and grow. I get my kicks from applying data to solve hard problems and from the excitement of uncovering new insights, whether I'm working in a group or alone.
+I like to experiment with different data analysis tools and methods in my leisure time, and I'm constantly seeking for new ways to learn and grow. I get my motivation from applying data to solve hard problems and from the excitement of uncovering new insights, whether I'm working in a group or alone.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
