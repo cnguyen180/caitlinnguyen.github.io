@@ -64,5 +64,15 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** R
 
+### Predicting Customer Spending in the Apparel Industry: Insights from Linear and Polynomial Regression Models
+**Code:** [`Predicting Customer Spending in the Apparel Industry: Insights from Linear and Polynomial Regression Models`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/customerretention.ipynb)
+
+**Goal:** The primary goal of this project is to develop and validate predictive models to forecast annual customer spending at a clothing business using various customer-related characteristics. This will enable the business to make informed decisions that improve marketing strategies, inventory management, and overall customer satisfaction and loyalty.
+
+**Description** Analyze customer-related data, including demographic and behavioral characteristics, perform exploratory data analysis (EDA), and apply regression models. The objective is to develop accurate predictive models that help the business understand and forecast customer spending patterns, improving customer satisfaction and loyalty. The project involves building and comparing linear and polynomial regression models, evaluating their performance, and presenting findings in a detailed report.
+
+**Skills:** Data analysis, machine learning, exploratory data analysis (EDA), data cleaning, data preprocessing, hypothesis formulation, statistical analysis, economic reasoning, data visualization, client communication, presenting findings
+
+**Technology:** Python, Scikit-learn, Pandas, Plotnine, Statsmodels
 
 
