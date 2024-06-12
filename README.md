@@ -102,6 +102,7 @@ This is a repository to showcase skills, share projects and track my progress in
 **Technology:** Python, pandas, scikit-learn, matplotlib, seaborn
 
 #Education
+
 Chapman University- BS, Business Administration, 2021-2024
 Pasadena City College- AA, Biology, 2019-2021
 
