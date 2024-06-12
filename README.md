@@ -75,4 +75,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Scikit-learn, Pandas, Plotnine, Statsmodels
 
+### Predicting User Churn to Enhance Customer Retention: An Analysis Using Machine Learning Models
+**Code:** [`Predicting User Churn to Enhance Customer Retention: An Analysis Using Machine Learning Models`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/Churn_CustomerRetention.ipynb)
 
+**Goal:** The goal of the project is to develop and evaluate machine learning models to predict user churn, thereby enabling targeted interventions to enhance customer retention and loyalty.
+
+**Description** Predict user churn to enhance customer retention by analyzing user demographics and viewing habits. It uses machine learning models such as Random Forest, Decision Trees, and Logistic Regression, evaluating their performance to identify the best model for re-engaging users at risk of subscription termination.
+
+**Skills:** Data Preprocessing, Handling Missing Values, Standardizing Numerical Features, Encoding Categorical Data, Implementing and Evaluating Machine Learning Models, Model Evaluation (Accuracy, Precision, Recall, ROC AUC), Visualization (ROC Curves)
+
+**Technology:** Python, pandas, scikit-learn, matplotlib
