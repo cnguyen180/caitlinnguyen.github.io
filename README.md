@@ -103,6 +103,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Technology:** Python, pandas, scikit-learn, matplotlib, seaborn
 
+**Slide deck:** [`Performance Analysis and Championship Prediction in Formula 1: Clustering and Supervised Learning Models`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/F1.pdf)
+
 # Education
 
 Chapman University- BS, Business Administration, 2021-2024
