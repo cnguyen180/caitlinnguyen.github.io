@@ -85,3 +85,14 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Data Preprocessing, Handling Missing Values, Standardizing Numerical Features, Encoding Categorical Data, Implementing and Evaluating Machine Learning Models, Model Evaluation (Accuracy, Precision, Recall, ROC AUC), Visualization (ROC Curves)
 
 **Technology:** Python, pandas, scikit-learn, matplotlib
+
+### Performance Analysis and Championship Prediction in Formula 1: Clustering and Supervised Learning Models
+**Code:** [`Performance Analysis and Championship Prediction in Formula 1: Clustering and Supervised Learning Models`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/f1.ipynb)
+
+**Goal:** The goal of this project is to analyze Formula 1 drivers' performance metrics to identify distinct driver profiles and predict championship success using advanced clustering and supervised learning models.
+
+**Description** This project examines Formula 1 drivers' performance to identify key factors influencing success and to predict championship outcomes. Gaussian Mixture Models (GMM) are used for clustering drivers based on metrics such as Win Rate, Podium Rate, and FastLap Rate, revealing distinct driver profiles. Logistic Regression with LASSO regularization predicts the likelihood of a driver becoming a champion by identifying crucial performance metrics. The project includes data preprocessing steps like handling missing values and normalization to ensure robust analysis.
+
+**Skills:** Data Preprocessing, Handling Missing Values, Normalization, Clustering (Gaussian Mixture Models), Supervised Learning (Logistic Regression with LASSO), Model Evaluation (BIC Score, ROC Curve, Feature Importance), Visualization (Cluster Distribution, Feature Importance)
+
+**Technology:** Python, pandas, scikit-learn, matplotlib, seaborn
