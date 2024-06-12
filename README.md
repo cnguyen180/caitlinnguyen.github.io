@@ -24,6 +24,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Results:** Show that artists with higher solo streaming numbers and those experiencing a surge in daily streams are more likely to have their songs featured on Spotify's "New Music Friday." This suggests a focus on building a strong solo streaming presence and leveraging current streaming success are key strategies for playlist inclusion.
 
+**Slide deck:** [`New Music Friday`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/NewMusicPresentation.pdf)
+
 ### Financial Profiles: A Study of Mortgage Solvency
 **Code:** [`Financial Profiles: A Study of Mortgage Solvency`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/Mortage.R)
 
