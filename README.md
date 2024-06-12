@@ -9,6 +9,8 @@ I like to experiment with different data analysis tools and methods in my leisur
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
+# Portfolio Projects
+
 ### Strategizing for Spotify: Enhancing Playlist Placement Opportunities 
 **Code:** [`Strategizing for Spotify: Enhancing Playlist Placement Opportunities.R`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/NewMusicFriday.R)
 
