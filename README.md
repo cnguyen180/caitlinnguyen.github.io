@@ -1,6 +1,6 @@
 # caitlinnguyen.github.io
 
-### About
+# About
 Hi, I'm Caitlin! I am a recent graduate from Chapman University with a major in Business Administration and a minor in Data Analytics. I have developed a strong foundation in data analytics and business administration and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
@@ -100,3 +100,12 @@ This is a repository to showcase skills, share projects and track my progress in
 **Skills:** Data Preprocessing, Handling Missing Values, Normalization, Clustering (Gaussian Mixture Models), Supervised Learning (Logistic Regression with LASSO), Model Evaluation (BIC Score, ROC Curve, Feature Importance), Visualization (Cluster Distribution, Feature Importance)
 
 **Technology:** Python, pandas, scikit-learn, matplotlib, seaborn
+
+#Education
+Chapman University- BS, Business Administration, 2021-2024
+Pasadena City College- AA, Biology, 2019-2021
+
+#Contacts 
+Linkedin: [`Caitlin Nguyen`](www.linkedin.com/in/caitlin-nguyen-abb8ba181)
+Email: caitnguyen1378@gmail.com
+
