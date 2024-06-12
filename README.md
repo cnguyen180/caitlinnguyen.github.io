@@ -43,7 +43,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** R
 
 ### Predicting Customer Spending and Analyzing Trends in a Clothing Store
-**Code:** [`Predicting Customer Spending and Analyzing Trends in a Clothing Store`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/Trends_ClothingStore.ipynb)
+**Code:** [`Predicting Customer Spending and Analyzing Trends in a Clothing Store`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/clothesanalyst.ipynb)
 
 **Goal:** The project aims to predict annual customer spending using customer attributes and explore how these attributes have evolved over time to refine marketing and sales strategies.
 
