@@ -7,7 +7,7 @@ During my studies, I honed my ability to work with complex data and developed a 
 
 I like to experiment with different data analysis tools and methods in my leisure time, and I'm constantly seeking for new ways to learn and grow. I get my motivation from applying data to solve hard problems and from the excitement of uncovering new insights, whether I'm working in a group or alone.
 
-**Resume:** 
+**Resume:** [`Resume`](https://github.com/cnguyen180/caitlinnguyen.github.io/blob/main/CaitlinNguyen'sResume.pdf)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
