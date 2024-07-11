@@ -54,6 +54,11 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Technology:** R
 
+**Results:** The project successfully identified key predictors of mortgage defaults and client income, achieving a decision tree accuracy of 63.94% and demonstrating the utility of lasso and ridge regression models in income prediction with RMSE values around 76,360.
+
+**Slide deck:** [`Financial Profiles: A Study of Mortgage Solvency`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/Mortage_Presentation.pdf)
+
+
 ### Zencap: Decoding Patterns of Startup Failure 
 **Code:** [`Financial Profiles: A Study of Mortgage Solvency`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/Mortage.R)
 
