@@ -60,7 +60,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 ### Zencap: Decoding Patterns of Startup Failure 
-**Code:** [`Financial Profiles: A Study of Mortgage Solvency`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/Mortage.R)
+**Code:** [`Financial Profiles: A Study of Mortgage Solvency`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/startup.R)
 
 **Goal:** Aims to enhance ZenCap's investment decisions by developing a logistic regression model to predict the success or failure of startups based on historical data from 2018 to 2020.
 
@@ -69,6 +69,11 @@ This is a repository to showcase skills, share projects and track my progress in
 **Skills:** Logistic regression modeling, data preparation, validation techniques in R, interpretation of model outputs (confusion matrices, accuracy metrics), strategic decision guidance.
 
 **Technology:** R
+
+**Results:** The project identified key predictors of startup success, achieving a logistic regression model accuracy of 73.05% with significant predictors being Age of Business, Innovation Index, and Median Work Experience. The model's precision and recall were 65.75% and 70.59%, respectively, highlighting its effectiveness in predicting startup success and guiding investment decisions.
+
+**Slide deck:** [`Zencap: Decoding Patterns of Startup Failure `](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/ZenCap_Investment_Analysis_Presentation.pdf)
+
 
 ### Predicting Customer Spending and Analyzing Trends in a Clothing Store
 **Code:** [`Predicting Customer Spending and Analyzing Trends in a Clothing Store`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/clothesanalyst.ipynb)
