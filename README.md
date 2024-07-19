@@ -1,5 +1,20 @@
 # caitlinnguyen.github.io
 
+# Table of Contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - [Analyzing Twitter Sentiment for Airlines](#analyzing-twitter-sentiment-for-airlines)
+  - [Strategizing for Spotify: Enhancing Playlist Placement Opportunities](#strategizing-for-spotify-enhancing-playlist-placement-opportunities)
+  - [Financial Profiles: A Study of Mortgage Solvency](#financial-profiles-a-study-of-mortgage-solvency)
+  - [Zencap: Decoding Patterns of Startup Failure](#zencap-decoding-patterns-of-startup-failure)
+  - [Predicting Customer Spending and Analyzing Trends in a Clothing Store](#predicting-customer-spending-and-analyzing-trends-in-a-clothing-store)
+  - [How Analytics Define the New Age of Blockbusters](#how-analytics-define-the-new-age-of-blockbusters)
+  - [Predicting Customer Spending in the Apparel Industry: Insights from Linear and Polynomial Regression Models](#predicting-customer-spending-in-the-apparel-industry-insights-from-linear-and-polynomial-regression-models)
+  - [Predicting User Churn to Enhance Customer Retention: An Analysis Using Machine Learning Models](#predicting-user-churn-to-enhance-customer-retention-an-analysis-using-machine-learning-models)
+  - [Performance Analysis and Championship Prediction in Formula 1: Clustering and Supervised Learning Models](#performance-analysis-and-championship-prediction-in-formula-1-clustering-and-supervised-learning-models)
+- [Education](#education)
+- [Contacts](#contacts)
+
 # About
 Hi, I'm Caitlin! I am a recent graduate from Chapman University with a major in Business Administration and a minor in Data Analytics. I have developed a strong foundation in data analytics and business administration and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
 
@@ -143,4 +158,3 @@ Pasadena City College- AA, Biology, 2019-2021
 Linkedin: [`Caitlin Nguyen`](www.linkedin.com/in/caitlin-nguyen-abb8ba181)
 
 Email: caitnguyen1378@gmail.com
-
