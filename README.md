@@ -1,5 +1,12 @@
 # caitlinnguyen.github.io
 
+# About
+Hi, I'm Caitlin! I am a recent graduate from Chapman University with a major in Business Administration and a minor in Data Analytics. I have developed a strong foundation in data analytics and business administration and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
+
+During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+
+I like to experiment with different data analysis tools and methods in my leisure time, and I'm constantly seeking for new ways to learn and grow. I get my motivation from applying data to solve hard problems and from the excitement of uncovering new insights, whether I'm working in a group or alone.
+
 # Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
@@ -14,13 +21,6 @@
   - [Performance Analysis and Championship Prediction in Formula 1: Clustering and Supervised Learning Models](#performance-analysis-and-championship-prediction-in-formula-1-clustering-and-supervised-learning-models)
 - [Education](#education)
 - [Contacts](#contacts)
-
-# About
-Hi, I'm Caitlin! I am a recent graduate from Chapman University with a major in Business Administration and a minor in Data Analytics. I have developed a strong foundation in data analytics and business administration and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
-
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
-
-I like to experiment with different data analysis tools and methods in my leisure time, and I'm constantly seeking for new ways to learn and grow. I get my motivation from applying data to solve hard problems and from the excitement of uncovering new insights, whether I'm working in a group or alone.
 
 **Resume:** [`Resume`](https://github.com/cnguyen180/caitlinnguyen.github.io/blob/main/CaitlinNguyen'sResume.pdf)
 
