@@ -22,7 +22,7 @@ I like to experiment with different data analysis tools and methods in my leisur
 - [Education](#education)
 - [Contacts](#contacts)
 
-**Resume:** [`Resume`](https://github.com/cnguyen180/caitlinnguyen.github.io/blob/main/CaitlinNguyen'sResume.pdf)
+**Resume:** [`Resume`](https://github.com/cnguyen180/caitlinnguyen.github.io/blob/main/CNresume.pdf)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
